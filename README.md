@@ -1,7 +1,7 @@
 # PyCombinators
 A package for building parsers using the Parsers Combinators method
 
-This package is heavily inspired and is based on the parser combinators packages by Dr M. Goldberg (www.littlelisper.org).
+This package is heavily inspired by and is based on the parser combinators packages by Dr M. Goldberg (www.littlelisper.org).
 
 ## Parser Combinators
 Parser Combinators is a compositional method for constructing parsers. It allows the programmer to essentially turn
